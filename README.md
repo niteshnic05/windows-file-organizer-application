@@ -21,6 +21,9 @@ A simple Windows application that organizes files into folders based on their da
   - View logs and results in the same window.
   - Double-click folders in the result tree view to open them in File Explorer.
 
+## Preview
+![Alt text](screenshot.jpg?raw=true "Windows File Organizer Application")
+
 ## How to Use
 1. **Launch the Application**: Run the `FileOrganizer.exe` file.
 2. **Select a Folder**: Use the `Browse` button to choose the folder you want to organize.
